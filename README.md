@@ -1,6 +1,6 @@
-![Unit testing badge]("https://github.com/kai-rothauge/cicd/actions/workflows/ci/badge.svg")
-
 # learn-cicd-starter (Notely)
+
+![Code coverage badge]("https://github.com/kai-rothauge/cicd/actions/workflows/ci.yml/badge.svg")
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
